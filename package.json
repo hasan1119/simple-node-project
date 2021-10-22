@@ -1,0 +1,28 @@
+{
+  "name": "simple-node-project",
+  "version": "1.0.0",
+  "description": "This is my first ever node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasan1119/simple-node-project.git"
+  },
+  "keywords": [
+    "coding-club-pro",
+    "Md.",
+    "Rokibul",
+    "Hasan"
+  ],
+  "author": "Md. Rokibul Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasan1119/simple-node-project/issues"
+  },
+  "homepage": "https://github.com/hasan1119/simple-node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
